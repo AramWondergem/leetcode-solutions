@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
