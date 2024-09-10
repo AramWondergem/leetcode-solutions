@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
