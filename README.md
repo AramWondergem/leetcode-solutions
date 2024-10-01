@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/AramWondergem/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1192-divide-chocolate](https://github.com/AramWondergem/leetcode-solutions/tree/master/1192-divide-chocolate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
 | [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/AramWondergem/leetcode-solutions/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Graph
