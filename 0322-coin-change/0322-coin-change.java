@@ -1,21 +1,44 @@
 class Solution {
+    Map<Integer, Integer> memo = new HashMap<>();
+    int[] coinsCol;
+    int a;
+
     public int coinChange(int[] coins, int amount) {
         if(amount == 0 ) {
             return 0;
         }
 
-        int[] minCoinsPerStep = new int[amount + 1];
+        coinsCol = coins;
+        a = amount;
 
-        for(int i = 1; i < minCoinsPerStep.length; i++) {
-            int minCoinsPreviousStep = Integer.MAX_VALUE;
-            for(int coin: coins) {
-                if(i - coin >= 0){
-                    minCoinsPreviousStep = Math.min(minCoinsPreviousStep,minCoinsPerStep[i - coin]);     
-                }
-            }
-            minCoinsPerStep[i] = minCoinsPreviousStep <= amount ? minCoinsPreviousStep + 1: minCoinsPreviousStep;
+        int minCoinsPreviousStep = Integer.MAX_VALUE;
+
+        for(int coin: coinsCol) {
+            minCoinsPreviousStep = Math.min(minCoinsPreviousStep,dp(amount - coin));     
+        }
+    
+        return minCoinsPreviousStep <= a ? minCoinsPreviousStep + 1 : -1;  
+    }
+
+    private int dp(int i){
+        if(i == 0) {
+            return 0;
         }
 
-        return minCoinsPerStep[amount] <= amount ? minCoinsPerStep[amount] : -1;  
+        if(i < -1) {
+            return Integer.MAX_VALUE;
+        }
+
+        if(memo.containsKey(i)) {
+            return memo.get(i);
+        }
+
+        int minCoinsPreviousStep = Integer.MAX_VALUE;
+        for(int coin: coinsCol) {
+            minCoinsPreviousStep = Math.min(minCoinsPreviousStep, dp(i - coin));     
+        }
+
+        memo.put(i, minCoinsPreviousStep <= a ? minCoinsPreviousStep + 1: minCoinsPreviousStep);
+        return memo.get(i); 
     }
 }
