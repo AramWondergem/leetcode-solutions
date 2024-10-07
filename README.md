@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AramWondergem/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0216-combination-sum-iii](https://github.com/AramWondergem/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AramWondergem/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/AramWondergem/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AramWondergem/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/AramWondergem/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
