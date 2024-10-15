@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AramWondergem/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/AramWondergem/leetcode-solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
