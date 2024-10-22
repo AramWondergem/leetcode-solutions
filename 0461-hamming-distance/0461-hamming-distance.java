@@ -5,13 +5,9 @@ class Solution {
         
         int ans = 0;
         
-        for(int i = 0; i < 31; i++) {
-            
-            int mask = 1 << i; 
-            
-            if((z & mask) != 0) {
-                ans++;
-            }
+        while(z != 0) {
+            ans++;
+            z = z & (z-1);
             
         }
         
