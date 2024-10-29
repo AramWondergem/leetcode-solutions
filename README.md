@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AramWondergem/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
 |  |
@@ -55,16 +56,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/AramWondergem/leetcode-solutions/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Graph
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AramWondergem/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Hash Table
 |  |
@@ -92,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/AramWondergem/leetcode-solutions/tree/master/0461-hamming-distance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
