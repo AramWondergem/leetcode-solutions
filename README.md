@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AramWondergem/leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AramWondergem/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/AramWondergem/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1192-divide-chocolate](https://github.com/AramWondergem/leetcode-solutions/tree/master/1192-divide-chocolate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AramWondergem/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/AramWondergem/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Backtracking
 |  |
 | ------- |
