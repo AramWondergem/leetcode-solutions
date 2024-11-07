@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1192-divide-chocolate](https://github.com/AramWondergem/leetcode-solutions/tree/master/1192-divide-chocolate) |
+| [1321-get-equal-substrings-within-budget](https://github.com/AramWondergem/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AramWondergem/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AramWondergem/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/AramWondergem/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1321-get-equal-substrings-within-budget](https://github.com/AramWondergem/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/AramWondergem/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AramWondergem/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/AramWondergem/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
