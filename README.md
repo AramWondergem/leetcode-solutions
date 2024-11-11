@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1619-path-crossing](https://github.com/AramWondergem/leetcode-solutions/tree/master/1619-path-crossing) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AramWondergem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/AramWondergem/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AramWondergem/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1619-path-crossing](https://github.com/AramWondergem/leetcode-solutions/tree/master/1619-path-crossing) |
 | [2128-reverse-prefix-of-word](https://github.com/AramWondergem/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
