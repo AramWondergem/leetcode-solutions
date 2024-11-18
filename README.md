@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AramWondergem/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/AramWondergem/leetcode-solutions/tree/master/0838-design-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/AramWondergem/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/AramWondergem/leetcode-solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
