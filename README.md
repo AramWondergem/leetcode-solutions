@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AramWondergem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/AramWondergem/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AramWondergem/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AramWondergem/leetcode-solutions/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/AramWondergem/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
